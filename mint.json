@@ -61,6 +61,12 @@
         "development"
       ]
     },
+    "navigation": [
+    {
+        "group": "Group Name",
+        "pages": ["1969/21-01-1969"]
+    }
+]
     {
       "group": "Essentials",
       "pages": [
