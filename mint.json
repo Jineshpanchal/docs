@@ -27,6 +27,10 @@
   },
   "tabs": [
     {
+      "name": "Hidi Avyakt Murlis",
+      "url": "hindi-av"
+    }
+    {
       "name": "API Reference",
       "url": "api-reference"
     }
