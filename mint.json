@@ -41,16 +41,6 @@
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
   ],
   "navigation": [
     {
@@ -61,10 +51,9 @@
         "development"
       ]
     },
-    "navigation": [
     {
-        "group": "Group Name",
-        "pages": ["1969/21-01-1969"]
+        "group": "AV Murli",
+        "pages": ["av-murli/21-01-1969"]
     }
 ]
     {
@@ -78,20 +67,7 @@
         "essentials/reusable-snippets"
       ]
     },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
-    }
+  
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
@@ -99,3 +75,4 @@
     "linkedin": "https://linkedin.com/company/mintlify"
   }
 }
+"theme": "quill" | "prism" | "venus"
